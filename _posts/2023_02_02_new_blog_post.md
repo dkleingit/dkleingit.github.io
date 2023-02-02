@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title: "POST-TITLE"
+date: 2023-02-02 12:00:00 -0000
 ---
 
 # Welcome
